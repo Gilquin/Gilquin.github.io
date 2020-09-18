@@ -8,11 +8,15 @@
     <img class="avatar", src="../assets/images/avatar.png" alt="Avatar">
     <div>
     <center>
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> <br><br>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
     {%- if site.email -%}
-    <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a> <br>
+    <p>
+	{%- include icon-mail.html -%}
+	</p>
     {%- endif -%}
+    <p>
     {%- include social.html -%}
+    </p>
     </center>
     </div>
   </div>

@@ -8,6 +8,9 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
+p span {
+  display: block;
+}
 
 
 /**
@@ -69,12 +72,12 @@ img {
 
     @include media-query($on-laptop) {
 
-      max-width: 40%;
+      max-width: 35%;
     }
 
     @include media-query($on-mobile) {
 
-      max-width: 50%;
+      max-width: 40%;
     }
 }
 
@@ -254,7 +257,7 @@ pre {
     width: 16px;
     height: 16px;
 
-    @include media-query($on-device) {
+    @include media-query($on-mobile) {
 
       width: 64px;
       height: 64px;
