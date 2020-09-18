@@ -9,14 +9,15 @@
     <div>
     <center>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <div>
     {%- if site.email -%}
-    <p>
 	{%- include icon-mail.html -%}
-	</p>
     {%- endif -%}
-    <p>
-    {%- include social.html -%}
-    </p>
+    <br>
+    {%- if site.github_username -%}
+    {%- include icon-github.html -%}
+	{%- endif -%}
+	</div>
     </center>
     </div>
   </div>

@@ -23,6 +23,9 @@
 .site-title {
 
   @include relative-font-size(2);
+  @include media-query($on-mobile) {
+    @include relative-font-size(1.5);
+  }
   font-weight: 400;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
