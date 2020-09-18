@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-BlaBlabla normalement ça devrait s'afficher avant le titre Posts.
+Remplir ici un bref descriptif.

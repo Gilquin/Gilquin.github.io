@@ -4,4 +4,13 @@ title: Service
 permalink: /Service/
 ---
 
-Mettre ici les enseignements, participations aux écoles d'été, encadrement de stagiaires
+Mettre ici les enseignements, contributions aux écoles d'été, encadrement de stagiaires
+
+
+#### Enseignements
+
+
+#### Packages
+
+
+#### Encadrement

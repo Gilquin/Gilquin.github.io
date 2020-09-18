@@ -5,5 +5,3 @@ permalink: /
 redirect_from:
 - /home
 ---
-
-Redirected?
