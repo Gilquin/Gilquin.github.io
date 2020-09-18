@@ -7,9 +7,9 @@
 
     <img class="avatar", src="../assets/images/avatar.png" alt="Avatar">
 
-	<div>
+	<div class="infos">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <div class="infos">
+    <div>
     {%- if site.email -%}
 	{%- include icon-mail.html -%}
     {%- endif -%}

@@ -41,8 +41,9 @@ header_pages:
   - home.markdown
   - cv.markdown
   - projets.markdown
-  - recherche.markdown
-  - service.markdown
+  - publications.markdown
+  - conferences.markdown
+  - divers.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
