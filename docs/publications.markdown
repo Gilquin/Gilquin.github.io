@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Ci-dessous la liste de mes publications dans des journaux à comité de lecture.
+Cette page présente la liste de mes publications dans des journaux à comité de lecture.
 
 #### Publications
 {: .header_color}

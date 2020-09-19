@@ -12,6 +12,7 @@ dl, dd, ol, ul, figure {
 /**
  * Special list
  */
+
 .publi-list {
   ul {
     list-style-image: None; /* Remove HTML bullets */
@@ -20,12 +21,12 @@ dl, dd, ol, ul, figure {
   }
   li {
      margin: 0;
-     padding: 10px 0 10px 84px;
+     padding: 0px 0 10px 50px;
      list-style: none;
      background-image: url('../assets/images/icon-article.png');
      background-repeat: no-repeat;
      background-position: left top;
-     background-size: 30px;
+     background-size: 25px;
   }
 }
 

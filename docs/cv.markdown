@@ -42,7 +42,7 @@ permalink: /cv/
 <span class="subtitle">Réalisations</span> :<br>
 \- Contribution à trois projets internes en qualité d'expert du département <<Méthodes numériques et optimisation>>.<br>
 \- Développement de méthodes issues du <<Machine Learning>> pour la modélisation de procédés pétrochimiques.<br>
-\- Conception d’un outil d'aide à la décision et contribution à la création d'un service web pour des équipes métiers (une dizaine de personnes).<br>
+\- Conception d'un outil d'aide à la décision et contribution à la création d'un service web pour des équipes métiers (une dizaine de personnes).<br>
 \- Élaboration de supports visuels et de notes interactives pour faciliter les échanges et le partage de codes entre différents collaborateurs (chef de projet, ingénieurs, techniciens).
 Encadrement à temps partiel de stagiaires (fin de master).
 
@@ -66,7 +66,7 @@ Encadrement à temps partiel de stagiaires (fin de master).
 <span class="subtitle">Institut</span> : INRIA Grenoble Rhône-Alpes<br>
 <span class="subtitle">Lieu</span> : Laboratoire Jean Kuntzmann, équipe AIRSEA<br>
 <span class="subtitle">Contrat</span> : CDD - 3 mois <br>
-<span class="subtitle">Réalisation</span> : Développement d’un package R.
+<span class="subtitle">Réalisation</span> : Développement d'un package R.
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 <span class="time">01/10/2013 au 30/09/2016</span><br>
