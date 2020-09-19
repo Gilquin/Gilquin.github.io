@@ -8,38 +8,38 @@ permalink: /cv/
 {: .header_color}
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
 
-**Doctorat en mathématiques appliquées** <a class="time">2013 - 2016</a><br>
-<a class="subtitle">Titre</a> : Échantillonnages Monte Carlo et quasi-Monte Carlo pour l'estimation des indices de Sobol'. Application à un modèle transport-urbanisme<br>
-<a class="subtitle">École Doctorale</a> : Mathématiques, Sciences et technologies de l'information, Informatique<br>
-<a class="subtitle">Unité de recherche</a> : UMR 5224 - LJK (Laboratoire Jean Kuntzmann)<br>
-<a class="subtitle">Établissement</a> : Communauté Université Grenoble Alpes<br>
-<a class="subtitle">Date d'obtention</a> : 17 octobre 2016
+<div><span class="subpar"> Doctorat en mathématiques appliquées</span><span class="time">2013 - 2016</span></div>
+<span class="subtitle">Titre</span> : Échantillonnages Monte Carlo et quasi-Monte Carlo pour l'estimation des indices de Sobol'. Application à un modèle transport-urbanisme<br>
+<span class="subtitle">École Doctorale</span> : Mathématiques, Sciences et technologies de l'information, Informatique<br>
+<span class="subtitle">Unité de recherche</span> : UMR 5224 - LJK (Laboratoire Jean Kuntzmann)<br>
+<span class="subtitle">Établissement</span> : Communauté Université Grenoble Alpes<br>
+<span class="subtitle">Date d'obtention</span> : 17 octobre 2016
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
-**Master STS (Sciences, Technologies, Santé)** <a class="time">2010 - 2013</a><br>
-<a class="subtitle">Section</a> : Mathématiques et Applications, Ingénierie Mathématique<br>
-<a class="subtitle">Spécialité</a> : Statistique, Informatique, Techniques Numériques<br>
-<a class="subtitle">Mention</a> : Très Bien<br>
-<a class="subtitle">Établissement</a> : Université Claude Bernard Lyon I
+<div><span class="subpar">Master STS (Sciences, Technologies, Santé)</span><span class="time">2010 - 2013</span></div>
+<span class="subtitle">Section</span> : Mathématiques et Applications, Ingénierie Mathématique<br>
+<span class="subtitle">Spécialité</span> : Statistique, Informatique, Techniques Numériques<br>
+<span class="subtitle">Mention</span> : Très Bien<br>
+<span class="subtitle">Établissement</span> : Université Claude Bernard Lyon I
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
-**Licence STS (Sciences, Technologies, Santé)** <a class="time">2008 - 2010</a><br>
-<a class="subtitle">Section</a> : Parcours Mathématiques générales et applications<br>
-<a class="subtitle">Mention</a> : Bien<br>
-<a class="subtitle">Établissement</a> : Université Claude Bernard Lyon I
+<div><span class="subpar">Licence STS (Sciences, Technologies, Santé)</span><span class="time">2008 - 2010</span></div>
+<span class="subtitle">Section</span> : Parcours Mathématiques générales et applications<br>
+<span class="subtitle">Mention</span> : Bien<br>
+<span class="subtitle">Établissement</span> : Université Claude Bernard Lyon I
 
 <br>
 #### Expériences professionnelles
 {: .header_color}
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
 
-**Ingénieur de recherche en sciences des données** <a class="time">19/11/2018 au 15/11/2019</a><br>
-<a class="subtitle">Entreprise</a> : IFP Énergies Nouvelles<br>
-<a class="subtitle">Lieu</a> : Site Solaize, département 'Méthodes numériques et optimisation'<br>
-<a class="subtitle">Contrat</a> : CDD - 1 an<br>
-<a class="subtitle">Réalisations</a> :<br>
+<div><span class="subpar">Ingénieur de recherche</span><span class="time">19/11/2018 au 15/11/2019</span></div>
+<span class="subtitle">Entreprise</span> : IFP Énergies Nouvelles<br>
+<span class="subtitle">Lieu</span> : Site Solaize, département 'Méthodes numériques et optimisation'<br>
+<span class="subtitle">Contrat</span> : CDD - 1 an<br>
+<span class="subtitle">Réalisations</span> :<br>
 \- Contribution à trois projets internes en qualité d'expert du département <<Méthodes numériques et optimisation>>.<br>
 \- Développement de méthodes issues du <<Machine Learning>> pour la modélisation de procédés pétrochimiques.<br>
 \- Conception d’un outil d'aide à la décision et contribution à la création d'un service web pour des équipes métiers (une dizaine de personnes).<br>
@@ -48,11 +48,11 @@ Encadrement à temps partiel de stagiaires (fin de master).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
-**Chercheur postdoctoral** <a class="time">06/03/2017 au 31/07/2018</a><br>
-<a class="subtitle">Entreprise</a> : INSAVALOR<br>
-<a class="subtitle">Lieu</a> : INSA Lyon, Laboratoire Vibrations Acoustique<br>
-<a class="subtitle">Contrat</a> : CDD - 1 an et demi <br>
-<a class="subtitle">Réalisations</a> :<br>
+<div><span class="subpar">Chercheur postdoctoral</span><span class="time">06/03/2017 au 31/07/2018</span></div>
+<span class="subtitle">Entreprise</span> : INSAVALOR<br>
+<span class="subtitle">Lieu</span> : INSA Lyon, Laboratoire Vibrations Acoustique<br>
+<span class="subtitle">Contrat</span> : CDD - 1 an et demi <br>
+<span class="subtitle">Réalisations</span> :<br>
 \- Contributions au projet FUI LUG2.<br>
 \- Collaborations avec des partenaires académiques (MaiMoSiNE, ICJ) et industriels (MicrodB).<br>
 \- Résolution d'un problème inverse par méthode numérique pour le placement optimal d'antennes de microphones.<br>
@@ -62,19 +62,19 @@ Encadrement à temps partiel de stagiaires (fin de master).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
-**Contractuel relais thèse** <a class="time">01/10/2016 au 31/12/2016</a><br>
-<a class="subtitle">Institut</a> : INRIA Grenoble Rhône-Alpes<br>
-<a class="subtitle">Lieu</a> : Laboratoire Jean Kuntzmann, équipe AIRSEA<br>
-<a class="subtitle">Contrat</a> : CDD - 3 mois <br>
-<a class="subtitle">Réalisation</a> : Développement d’un package R.
+<div><span class="subpar">Contractuel relais thèse</span><span class="time">01/10/2016 au 31/12/2016</span></div>
+<span class="subtitle">Institut</span> : INRIA Grenoble Rhône-Alpes<br>
+<span class="subtitle">Lieu</span> : Laboratoire Jean Kuntzmann, équipe AIRSEA<br>
+<span class="subtitle">Contrat</span> : CDD - 3 mois <br>
+<span class="subtitle">Réalisation</span> : Développement d’un package R.
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
-**Doctorant** <a class="time">01/10/2013 au 30/09/2016</a><br>
-<a class="subtitle">Institut</a> : INRIA Grenoble Rhône-Alpes<br>
-<a class="subtitle">Lieu</a> : Laboratoire Jean Kuntzmann, équipe AIRSEA<br>
-<a class="subtitle">Contrat</a> : CDD - 3 ans <br>
-<a class="subtitle">Réalisations</a> :<br>
+<div><span class="subpar">Doctorant</span><span class="time">01/10/2013 au 30/09/2016</span></div>
+<span class="subtitle">Institut</span> : INRIA Grenoble Rhône-Alpes<br>
+<span class="subtitle">Lieu</span> : Laboratoire Jean Kuntzmann, équipe AIRSEA<br>
+<span class="subtitle">Contrat</span> : CDD - 3 ans <br>
+<span class="subtitle">Réalisations</span> :<br>
 \- Contributions au projet ANR CITiES.<br>
 \- Contribution à la création d'un outil d'aide à la décision pour des décideurs de politiques de transport et d'aménagement urbain.<br>
 \- Conception de plusieurs procédures statistiques pour l'analyse et le calage de modèles numériques.<br>
@@ -85,11 +85,11 @@ Encadrement à temps partiel de stagiaires (fin de master).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
-**Stagiaire** <a class="time">01/04/2013 au 30/09/2013</a><br>
-<a class="subtitle">Institut</a> : INRIA Grenoble Rhône-Alpes<br>
-<a class="subtitle">Lieu</a> : INRIA Grenoble Rhône-Alpes, équipe STEEP<br>
-<a class="subtitle">Durée</a> : 6 mois <br>
-<a class="subtitle">Réalisation</a> : Utilisation de méthodes statistiques pour l'analyse et le calage de modèles transport-urbanisme.
+<div><span class="subpar">Stagiaire</span><span class="time">01/04/2013 au 30/09/2013</span></div>
+<span class="subtitle">Institut</span> : INRIA Grenoble Rhône-Alpes<br>
+<span class="subtitle">Lieu</span> : INRIA Grenoble Rhône-Alpes, équipe STEEP<br>
+<span class="subtitle">Durée</span> : 6 mois <br>
+<span class="subtitle">Réalisation</span> : Utilisation de méthodes statistiques pour l'analyse et le calage de modèles transport-urbanisme.
 
 <br>
 #### Compétences particulières
@@ -97,10 +97,10 @@ Encadrement à temps partiel de stagiaires (fin de master).
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
 
 **Maîtrise d'outils informatiques**<br>
-<a class="subtitle">Langages de programmation</a> : Python (Cython, Sage, CPython), R (Rcpp), C++11 (bibliothèque standard), OpenCL<br>
-<a class="subtitle">Logiciels de version</a> : Git, Subversion<br>
-<a class="subtitle">Autres logiciels</a> : LaTeX, Inkscape, Word, Excel<br>
-<a class="subtitle">OS</a> : Linux (Ubuntu), OS X, Windows (7, 10)
+<span class="subtitle">Langages de programmation</span> : Python (Cython, Sage, CPython), R (Rcpp), C++11 (bibliothèque standard), OpenCL<br>
+<span class="subtitle">Logiciels de version</span> : Git, Subversion<br>
+<span class="subtitle">Autres logiciels</span> : LaTeX, Inkscape, Word, Excel<br>
+<span class="subtitle">OS</span> : Linux (Ubuntu), OS X, Windows (7, 10)
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
@@ -126,7 +126,7 @@ Encadrement à temps partiel de stagiaires (fin de master).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 
-**langues parlées et écrites**
+**langues parlées et écrites**<br>
 \- Anglais niveau C1<br>
 \- Allemand niveau A1
 
@@ -137,6 +137,6 @@ Encadrement à temps partiel de stagiaires (fin de master).
 {: .header_color}
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
 
-<a class="subtitle">Sports</a> : Football (league indoor, tournois universitaires), Ski, Tennis de table, Tir sportif<br>
-<a class="subtitle">Littérature</a> : Romans policiers / science-fiction<br>
-<a class="subtitle">Autres</a> : Jardinage
+<span class="subtitle">Sports</span> : Football (league indoor, tournois universitaires), Ski, Tennis de table, Tir sportif<br>
+<span class="subtitle">Littérature</span> : Romans policiers / science-fiction<br>
+<span class="subtitle">Autres</span> : Jardinage

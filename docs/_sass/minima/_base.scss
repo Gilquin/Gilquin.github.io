@@ -10,6 +10,29 @@ dl, dd, ol, ul, figure {
 
 
 /**
+ * Special list
+ */
+.publi-list {
+  ul {
+    list-style: none; /* Remove HTML bullets */
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    background: url('../assets/images/icon-article.png') no-repeat left top;
+    height: 90px;
+    @include media-query($on-laptop) {
+      height: 140px;
+    }
+    @include media-query($on-mobile) {
+      height: 180px;
+    }
+    padding-left: 40px;
+    padding-top: 5px;
+  }
+}
+
+/**
  * Change base font size for mobile
  */
 @include media-query($on-mobile) {
@@ -264,6 +287,10 @@ pre {
 /**
  * Icons
  */
+
+.png-icon {
+    vertical-align: text-middle;
+}
 
 .svg-icon {
     width: 16px;
