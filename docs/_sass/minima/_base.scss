@@ -14,21 +14,18 @@ dl, dd, ol, ul, figure {
  */
 .publi-list {
   ul {
-    list-style: none; /* Remove HTML bullets */
+    list-style-image: None; /* Remove HTML bullets */
     padding: 0;
     margin: 0;
   }
   li {
-    background: url('../assets/images/icon-article.png') no-repeat left top;
-    height: 90px;
-    @include media-query($on-laptop) {
-      height: 140px;
-    }
-    @include media-query($on-mobile) {
-      height: 180px;
-    }
-    padding-left: 40px;
-    padding-top: 5px;
+     margin: 0;
+     padding: 10px 0 10px 84px;
+     list-style: none;
+     background-image: url('../assets/images/icon-article.png');
+     background-repeat: no-repeat;
+     background-position: left top;
+     background-size: 30px;
   }
 }
 
