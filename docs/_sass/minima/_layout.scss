@@ -199,6 +199,19 @@
 /**
  * Page content
  */
+
+.header_color{
+  color: $brand-color;
+}
+
+
+.subtitle{
+
+  color: $brand-color;
+  font-style: italic;
+}
+
+
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
@@ -251,6 +264,8 @@
 }
 
 .post-content {
+
+// background-color: #ffffff;
   margin-bottom: $spacing-unit;
 
   h2 {

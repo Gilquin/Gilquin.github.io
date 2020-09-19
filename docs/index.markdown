@@ -6,4 +6,4 @@ layout: home
 ---
 
 
-Remplir ici un bref descriptif.
+Remplir ici un bref descriptif. Normalement le retour à la ligne devrait être automatique, on vérifie ça tout de suite.
