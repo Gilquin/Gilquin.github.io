@@ -7,8 +7,8 @@ permalink: /cv/
 #### Formation diplômante
 {: .header_color}
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
-
-<div><span class="subpar"> Doctorat en mathématiques appliquées</span><span class="time">2013 - 2016</span></div>
+<span class="time">2013 - 2016</span><br>
+**Doctorat en mathématiques appliquées**\
 <span class="subtitle">Titre</span> : Échantillonnages Monte Carlo et quasi-Monte Carlo pour l'estimation des indices de Sobol'. Application à un modèle transport-urbanisme<br>
 <span class="subtitle">École Doctorale</span> : Mathématiques, Sciences et technologies de l'information, Informatique<br>
 <span class="subtitle">Unité de recherche</span> : UMR 5224 - LJK (Laboratoire Jean Kuntzmann)<br>
@@ -16,16 +16,16 @@ permalink: /cv/
 <span class="subtitle">Date d'obtention</span> : 17 octobre 2016
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-
-<div><span class="subpar">Master STS (Sciences, Technologies, Santé)</span><span class="time">2010 - 2013</span></div>
+<span class="time">2010 - 2013</span><br>
+**Master STS (Sciences, Technologies, Santé)**\
 <span class="subtitle">Section</span> : Mathématiques et Applications, Ingénierie Mathématique<br>
 <span class="subtitle">Spécialité</span> : Statistique, Informatique, Techniques Numériques<br>
 <span class="subtitle">Mention</span> : Très Bien<br>
 <span class="subtitle">Établissement</span> : Université Claude Bernard Lyon I
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-
-<div><span class="subpar">Licence STS (Sciences, Technologies, Santé)</span><span class="time">2008 - 2010</span></div>
+<span class="time">2008 - 2010</span><br>
+**Licence STS (Sciences, Technologies, Santé)**\
 <span class="subtitle">Section</span> : Parcours Mathématiques générales et applications<br>
 <span class="subtitle">Mention</span> : Bien<br>
 <span class="subtitle">Établissement</span> : Université Claude Bernard Lyon I
@@ -34,8 +34,8 @@ permalink: /cv/
 #### Expériences professionnelles
 {: .header_color}
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
-
-<div><span class="subpar">Ingénieur de recherche</span><span class="time">19/11/2018 au 15/11/2019</span></div>
+<span class="time">19/11/2018 au 15/11/2019</span><br>
+**Ingénieur de recherche en sciences des données**\
 <span class="subtitle">Entreprise</span> : IFP Énergies Nouvelles<br>
 <span class="subtitle">Lieu</span> : Site Solaize, département 'Méthodes numériques et optimisation'<br>
 <span class="subtitle">Contrat</span> : CDD - 1 an<br>
@@ -47,8 +47,8 @@ permalink: /cv/
 Encadrement à temps partiel de stagiaires (fin de master).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-
-<div><span class="subpar">Chercheur postdoctoral</span><span class="time">06/03/2017 au 31/07/2018</span></div>
+<span class="time">06/03/2017 au 31/07/2018</span><br>
+**Chercheur postdoctoral**\
 <span class="subtitle">Entreprise</span> : INSAVALOR<br>
 <span class="subtitle">Lieu</span> : INSA Lyon, Laboratoire Vibrations Acoustique<br>
 <span class="subtitle">Contrat</span> : CDD - 1 an et demi <br>
@@ -61,16 +61,16 @@ Encadrement à temps partiel de stagiaires (fin de master).
 \- 4 communications dans des conférences nationales (2) et internationales (2).<br>
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-
-<div><span class="subpar">Contractuel relais thèse</span><span class="time">01/10/2016 au 31/12/2016</span></div>
+<span class="time">01/10/2016 au 31/12/2016</span><br>
+**Contractuel relais thèse**\
 <span class="subtitle">Institut</span> : INRIA Grenoble Rhône-Alpes<br>
 <span class="subtitle">Lieu</span> : Laboratoire Jean Kuntzmann, équipe AIRSEA<br>
 <span class="subtitle">Contrat</span> : CDD - 3 mois <br>
 <span class="subtitle">Réalisation</span> : Développement d’un package R.
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-
-<div><span class="subpar">Doctorant</span><span class="time">01/10/2013 au 30/09/2016</span></div>
+<span class="time">01/10/2013 au 30/09/2016</span><br>
+**Doctorant**\
 <span class="subtitle">Institut</span> : INRIA Grenoble Rhône-Alpes<br>
 <span class="subtitle">Lieu</span> : Laboratoire Jean Kuntzmann, équipe AIRSEA<br>
 <span class="subtitle">Contrat</span> : CDD - 3 ans <br>
@@ -84,8 +84,8 @@ Encadrement à temps partiel de stagiaires (fin de master).
 \- 5 communications dans des conférences nationales (2) et internationales (3).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-
-<div><span class="subpar">Stagiaire</span><span class="time">01/04/2013 au 30/09/2013</span></div>
+<span class="time">01/04/2013 au 30/09/2013</span><br>
+**Stagiaire**\
 <span class="subtitle">Institut</span> : INRIA Grenoble Rhône-Alpes<br>
 <span class="subtitle">Lieu</span> : INRIA Grenoble Rhône-Alpes, équipe STEEP<br>
 <span class="subtitle">Durée</span> : 6 mois <br>
