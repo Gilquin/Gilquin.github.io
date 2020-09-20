@@ -16,7 +16,7 @@ permalink: /cv/
 <span class="subtitle">Date d'obtention</span> : 17 octobre 2016
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-<span class="time">2010 - 2013</span><br>
+<span class="time">2011 - 2013</span><br>
 **Master STS (Sciences, Technologies, Santé)**\
 <span class="subtitle">Section</span> : Mathématiques et Applications, Ingénierie Mathématique<br>
 <span class="subtitle">Spécialité</span> : Statistique, Informatique, Techniques Numériques<br>
@@ -24,7 +24,7 @@ permalink: /cv/
 <span class="subtitle">Établissement</span> : Université Claude Bernard Lyon I
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
-<span class="time">2008 - 2010</span><br>
+<span class="time">2008 - 2011</span><br>
 **Licence STS (Sciences, Technologies, Santé)**\
 <span class="subtitle">Section</span> : Parcours Mathématiques générales et applications<br>
 <span class="subtitle">Mention</span> : Bien<br>
@@ -43,8 +43,8 @@ permalink: /cv/
 \- Contribution à trois projets internes en qualité d'expert du département <<Méthodes numériques et optimisation>>.<br>
 \- Développement de méthodes issues du <<Machine Learning>> pour la modélisation de procédés pétrochimiques.<br>
 \- Conception d'un outil d'aide à la décision et contribution à la création d'un service web pour des équipes métiers (une dizaine de personnes).<br>
-\- Élaboration de supports visuels et de notes interactives pour faciliter les échanges et le partage de codes entre différents collaborateurs (chef de projet, ingénieurs, techniciens).
-Encadrement à temps partiel de stagiaires (fin de master).
+\- Élaboration de supports visuels et de notes interactives pour faciliter les échanges et le partage de codes entre différents collaborateurs (chef de projet, ingénieurs, techniciens).<br>
+\- Encadrement à temps partiel de stagiaires (fin de master).
 
 <hr style="height:1px;border-width:0;color:gray;background-color:#828282"><br>
 <span class="time">06/03/2017 au 31/07/2018</span><br>
@@ -119,7 +119,7 @@ Encadrement à temps partiel de stagiaires (fin de master).
 **Compétences comportementales**<br>
 \- Capacité à travailler en équipe pluridisciplinaire dans des projets à dimension nationale et/ou internationale.<br>
 \- Capacité à transmettre ses connaissances dans un cadre professionnel et à accompagner des utilisateurs potentiels.<br>
-\- Capacité d'adaptation à de nouveaux environnements professionnels (public / privé).
+\- Capacité d'adaptation à de nouveaux environnements professionnels (public / privé).<br>
 \- Rigueur dans la gestion des projets, le temps de travail alloué (respect des échéances) et la validation des résultats.<br>
 \- Sens de l'organisation : planification des tâches confiées, rédaction de notes et rapports techniques.<br>
 \- Curiosité scientifique : attrait pour la découverte de nouvelles thématiques de recherche et de nouveaux domaines d'activité (transport-urbanisme, acoustique, pétrochimie).

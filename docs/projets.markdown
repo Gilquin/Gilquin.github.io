@@ -42,22 +42,37 @@ Ces modèles mettent en jeu un nombre considérable de paramètres (coefficients
 J'ai notamment développé une procédure de calage du modèle transport-urbanisme <a href="http://www.tranus.com/tranus-english">Tranus</a>. Cette procédure combine une phase d'analyse de sensibilité et une phase d'optimisation. La phase d'analyse de sensibilité a pour but d'identifier les paramètres influents du modèle et ainsi réduire la dimension du problème d'optimisation. La version calée de Tranus avait ensuite pour objectif d'être utilisée dans une phase de prospective, afin de tester des scénarios de développement transport-urbain conjointement avec l'agence d'urbanisme de Grenoble.
 
 
-
+<br>
 #### Projet LUG2
 {: .header_color}
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
 <span class="time">2017 - 2020</span><br>
 
+Le projet <a href="https://www.minalogic.com/8-projets-finances-au-22eme-aap-du-fui-regions/">FUI LUG2</a> a eu pour objectif de développer un nouveau prototype d'antennes acoustiques capables d'identifier, localiser et quantifier précisément les sources de bruit dans un environnement complexe. Le projet était piloté par la société MicrodB et a associé partenaires académiques (Laboratoire Vibrations Acoustique, Institut Camille Jordan, MaiMoSiNE) et industriels (Rtone, Terabee).
+
 <div class="container">
 <h1> <img style="width:60%" src="../assets/images/lug2.png" alt="lug2"> </h1>
 </div>
 
+La localisation et quantification de sources de bruit peuvent se résumer par le schéma ci-dessus. L'objet d'étude est par exemple un moteur de voiture dont on veut déterminer à une fréquence donnée quelles sont les parties/composantes à l'origine du bruit. Pour cela, des jeux de mesures (pressions acoustiques) sont acquis à l'aide d'une antenne de microphones. Puis, à partir de ces mesures on cherche à reconstruire le champ sonore sur une grille modélisant la surface de l'objet d'étude. D'un point de vue numérique, cette reconstruction consiste en la résolution d'un problème inverse.
 
-#### Projets internes IFP Energies Nouvelles
+Mes contributions au projet LUG2 consistent en deux méthodes visant à :
+1. quantifier l'impact de sources d'incertitude propres à l'antenne et au modèle de propagation à la fois sur les jeux de mesures acquis et sur la reconstruction du champ sonore,
+2. identifier le placement optimal d'antennes de microphones pour permettre à des techniciens de microdB de pouvoir rapidement effectuer des mesures successives *in situ*.
+
+<br>
+#### Projets internes IFP Energies Nouvelles (IFPEN)
 {: .header_color}
 <hr style="height:2px;border-width:0;color:gray;background-color:#367588"><br>
 <span class="time">2018 - 2019</span><br>
 
+
+Les principaux axes de recherche de l'IFPEN Solaize portent sur le développement de catalyseurs pour la production de carburants plus respectueux de l'environnement. Les projets de l'IFPEN sont menés au sein d'équipes pluridisciplinaires constituées de collaborateurs issus des départements de recherche et des départements fonctionnels ou métiers.
+
 <div class="container">
 <h1> <img style="width:100%" src="../assets/images/ifpen.png" alt="lug2"> </h1>
 </div>
+
+J'ai contribué à trois projets dont deux portant sur l'utilisation de méthodes <<Machine Learning>> pour la modélisation de procédés pétrochimiques en particulier l'hydrocraquage. J'ai développé deux modèles :
+1. le premier pour prédire des propriétés de produits obtenus par hydrocraquage à partir de données réelles issues de raffineries,
+2. le second pour déterminer des catégories de catalyseurs performants à partir de données moléculaires.
